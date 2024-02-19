@@ -47,3 +47,12 @@ Name changes are usually considered destructive and represent new entities (star
 It's the original author's hope that data analytics field become more transparent in the future.
 
 NO ATTRIBUTION OF DATA SOURCES ARE ALLOWED. On the other hand, a metadata file contains data source of specific ranges of any particular data is provided.
+
+## Contribution Rules
+
+Everyone is welcome to contribute!
+
+* Names must contain no space and no special symbols, be PascalCase, and be clear and unambiguous and as short as possible.
+* Time series data must be sequential, but may contain missing dates.
+* For missing values, just leave empty.
+* Must run validation check scripts before submitting changes.

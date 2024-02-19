@@ -1,0 +1,28 @@
+- Name: SPX500
+- Full Name: S&P 500 # As appears on Wikipedia
+- Ticket Name: S&P 500
+- Entity Type: Index
+- Frequency: Daily
+- Column Count: 8
+- First Date: 1927-12-30
+- Last Date: 2024-02-16
+- Validated: true
+- Columns:
+  - Name: Date
+    Type: Date
+  - Name: Open
+    Type: Number
+  - Name: High
+    Type: Number
+  - Name: Low
+    Type: Number
+  - Name: Close
+    Type: Number
+  - Name: Adjusted Close
+    Type: Number
+  - Name: Close
+    Type: Number
+  - Name: Volume
+    Type: Number
+- Sources:
+  - Unavailable
