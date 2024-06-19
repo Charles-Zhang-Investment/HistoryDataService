@@ -48,6 +48,12 @@ It's the original author's hope that data analytics field become more transparen
 
 NO ATTRIBUTION OF DATA SOURCES ARE ALLOWED. On the other hand, a metadata file contains data source of specific ranges of any particular data is provided.
 
+## API
+
+PENDING.
+
+<!--Will provide API for Parcel NExT tareting Pure 2 and Gospel.-->
+
 ## Contribution Rules
 
 Everyone is welcome to contribute!
